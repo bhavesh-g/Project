@@ -6,11 +6,12 @@
 ### Important Instructions
 - The output file name must not be changed, default is '**output.json**'
 - The output file will be stored at '**data/output.json**' only, please don't try to change it.
+- The logfile will be in the same directory named **logs.txt**
 
 ### Usage:
 - Clone the repository 
 - open cmd and navigate to this directory
-- type this command **_scrapy runspider extractor.py -o data/output.json_**
+- type this command **_scrapy runspider extractor.py -o data/output.json --logfile logs.txt_**
 - read the onscreen instruction carefully.
 - enter the website starting URL to start scraping desired text, (without 'www')
 - after finishing the scraping, check **data/output.json**, for output as specified in the challenge.
