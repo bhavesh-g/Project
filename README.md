@@ -21,6 +21,12 @@
 - All the indic fonts such as Hindi, Tamil, Bengali etc. can be scraped easily and stored in unicoded strings
 - To read the JSON contents exactly, just print it out in Python interpretor or copy the contents and use a free service like [https://codebeautify.org/jsonviewer]
 
+### Testing_sample_outputs
+Here the JSON files named **testing_output1.json** and **testing_output2.json** are being tested by me, as specified in the challenge.
+
+- Starting website URL for **testing_output1.json** is https://magazine.iit.edu
+- Starting website URL for **testing_output2.json** is http://dustyfeet.com
+
 ## Contact:
 If any problem occurs, please feel free to contact me at:
 - Email : guptabhavesh6@gmail.com
